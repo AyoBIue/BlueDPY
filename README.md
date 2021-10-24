@@ -1,2 +1,2 @@
-# discord
-Small project, not much hope, lol.
+# Blue's Discord PY
+Small project, currently working on it...
